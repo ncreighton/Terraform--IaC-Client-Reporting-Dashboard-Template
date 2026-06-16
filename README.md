@@ -1,2 +1,25 @@
-# Terraform--IaC-Client-Reporting-Dashboard-Template
-Weekly and monthly report templates with charts, KPIs, and executive summaries. Impress clients with professional reporting in minutes.
+# Terraform & IaC Client Reporting Dashboard Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/14AdR96mXbUEg881Zid0q0t)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/14AdR96mXbUEg881Zid0q0t)
+
